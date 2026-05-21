@@ -27,7 +27,7 @@ tabla.innerHTML = `
     <td><b>Smartphone X</b></td>
 
     <td>
-       <img src="../img/imagen1.jpg" width="100" height="100">
+       <img src="img/imagen1.jpg" width="100" height="100">
     </td>
 
     <td>
@@ -58,7 +58,7 @@ tabla.innerHTML = `
     <td><b>Laptop Pro</b></td>
 
     <td>
-       <img src="../img/imagen2.jpg" width="100" height="100">
+       <img src="img/imagen2.jpg" width="100" height="100">
     </td>
 
     <td>
@@ -89,7 +89,7 @@ tabla.innerHTML = `
     <td><b>Tablet Z</b></td>
 
     <td>
-        <img src="../img/imagen3.jpg" width="100" height="100">
+        <img src="img/imagen3.jpg" width="100" height="100">
     </td>
 
     <td>
